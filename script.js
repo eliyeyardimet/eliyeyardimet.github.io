@@ -40,6 +40,7 @@
         'Bu sənədlər Əlinin diaqnozunu təsdiqləyir.',
 
       donationTitle: 'Yardım üçün bank kartları',
+      holderRel: '– Bibisi',
       copyBtn: 'Kopyala',
       copiedBtn: 'Kopyalandı',
 
@@ -75,6 +76,7 @@
         'Bu belgeler Ali\'nin tanısını belgeliyor.',
 
       donationTitle: 'Yardım için banka kartları',
+      holderRel: '– Halası',
       copyBtn: 'Kopyala',
       copiedBtn: 'Kopyalandı',
 
@@ -110,6 +112,7 @@
         'Эти документы подтверждают диагноз Али.',
 
       donationTitle: 'Банковские карты для помощи',
+      holderRel: '– тётя',
       copyBtn: 'Копировать',
       copiedBtn: 'Скопировано',
 
@@ -145,6 +148,7 @@
         'These documents confirm Ali\'s diagnosis.',
 
       donationTitle: 'Bank cards for donation',
+      holderRel: '– aunt',
       copyBtn: 'Copy',
       copiedBtn: 'Copied',
 
