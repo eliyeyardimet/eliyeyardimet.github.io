@@ -41,6 +41,7 @@
 
       donationTitle: 'Yardım üçün bank kartları',
       holderRel: '– Bibisi',
+      whatsappHint: 'Ailə ilə əlaqə saxla',
       copyBtn: 'Kopyala',
       copiedBtn: 'Kopyalandı',
 
@@ -77,6 +78,7 @@
 
       donationTitle: 'Yardım için banka kartları',
       holderRel: '– Halası',
+      whatsappHint: 'Aileyle iletişime geç',
       copyBtn: 'Kopyala',
       copiedBtn: 'Kopyalandı',
 
@@ -113,6 +115,7 @@
 
       donationTitle: 'Банковские карты для помощи',
       holderRel: '– тётя',
+      whatsappHint: 'Связаться с семьёй',
       copyBtn: 'Копировать',
       copiedBtn: 'Скопировано',
 
@@ -149,6 +152,7 @@
 
       donationTitle: 'Bank cards for donation',
       holderRel: '– aunt',
+      whatsappHint: 'Contact the family',
       copyBtn: 'Copy',
       copiedBtn: 'Copied',
 
